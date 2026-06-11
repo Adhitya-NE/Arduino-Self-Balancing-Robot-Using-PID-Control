@@ -82,9 +82,9 @@ The robot operates using a closed-loop PID control system.
 - PWM Control
 
 # Authors
-- Fadlan Umar Rozikin (235150307111032)
-- Syieva Maulana Haaq W. (235150307111006)
-- Firda Aisyah (235150307111031)
-- Michella Alya Carol (235150301111042)
-- Adhitya Noer Effendi (235150307111024)
-- Adhimu Rizky Ramadhani (235150300111020)
+- Fadlan Umar Rozikin 235150307111032
+- Syieva Maulana Haaq W. 235150307111006
+- Firda Aisyah 235150307111031
+- Michella Alya Carol 235150301111042
+- Adhitya Noer Effendi 235150307111024
+- Adhimu Rizky Ramadhani 235150300111020
