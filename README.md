@@ -39,7 +39,7 @@ The robot operates using a closed-loop PID control system.
 5. Motors rotate to counteract falling motion.
 6. The process repeats continuously.
 
-# PID Parameters
+## PID Parameters
 | Parameter | Value |
 |------------|------------|
 | Kp | 15.0 |
@@ -47,7 +47,7 @@ The robot operates using a closed-loop PID control system.
 | Kd | 3.0 |
 | Setpoint | 20.0° |
 
-# 🔌 Wiring Connections
+# Wiring Connections
 ## MPU6050
 | MPU6050 | Arduino Uno |
 |----------|-------------|
